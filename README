@@ -1,0 +1,9 @@
+Correr el micro servicio:
+
+python3 msPython.py
+
+Correr el front en js:
+
+npm start
+
+Lastimosamente en java no quedo corriendo de manera correcta y por tal motivo decidi crearlo en js con React.
